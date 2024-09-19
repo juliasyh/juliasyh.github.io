@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Julia Han"
-  avatar           : "pic_rl_scaled579.jpg"
+  avatar           : "profile.png"
   bio              : "Ph.D. Student at University of Michigan <b>juliasyh@umich.edu </b>"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=h4Hj07wAAAAJ&hl=en"
-  email            : #"rlobos@usc.edu"
+  email            : "juliasyh@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
